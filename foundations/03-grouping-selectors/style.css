@@ -1,0 +1,10 @@
+.black,.yellow{
+    font-size: 70px;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+}
